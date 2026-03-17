@@ -72,7 +72,7 @@
     filter lua-filter))
 
 (defconst org-pandoc-file-options
-  '(abbreviations bibliography citation-abbreviations csl defaults
+  '(abbreviations bibliography citation-abbreviations defaults
     epub-cover-image epub-embed-font epub-metadata include-after-body
     include-before-body include-in-header log lue-filter
 	print-default-data-file reference-doc syntax-definition))
