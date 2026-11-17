@@ -74,7 +74,7 @@
 (defconst org-pandoc-file-options
   '(abbreviations bibliography citation-abbreviations defaults
     epub-cover-image epub-embed-font epub-metadata include-after-body
-    include-before-body include-in-header log lue-filter
+    include-before-body include-in-header log lua-filter
 	print-default-data-file reference-doc syntax-definition))
 
 (defconst org-pandoc-extensions
